@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+   
+#contenedor{
+    width: 400px;
+    height: 500px;
+    border: 3px solid seagreen;
+    margin: auto;
+    margin-top: 15px;
+}
+ 
+.imagen{
+    width: 100%;
+    height: 50%;
+    border-bottom: 3px solid purple;
+
+
+}
+
+
+
+.texto{
+    width: 90%;
+    margin: auto;
+
+
+}
+
+.titulo{
+    color: purple;
+    text-align: center;
+}
+
+.parrafo{
+    color: red;
+    text-align: justify;
+}
+
+.boton{
+    display: block;
+    color: purple;
+    padding: 10px 10px;
+    margin: auto;
+    border: 3px solid red;
+    width: 20%;
+    margin-top: 10px;
+    background-color: royalblue;
+    text-decoration: none;
+    text-align: center;
+
+    
+}
